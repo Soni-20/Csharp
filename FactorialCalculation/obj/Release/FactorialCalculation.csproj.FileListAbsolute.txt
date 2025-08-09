@@ -1,0 +1,7 @@
+\\ABSPC030\Training-25\E0205 - Soni R\7AUG2025\FlowControls\FactorialCalculation\bin\Release\FactorialCalculation.exe.config
+\\ABSPC030\Training-25\E0205 - Soni R\7AUG2025\FlowControls\FactorialCalculation\bin\Release\FactorialCalculation.exe
+\\ABSPC030\Training-25\E0205 - Soni R\7AUG2025\FlowControls\FactorialCalculation\bin\Release\FactorialCalculation.pdb
+\\ABSPC030\Training-25\E0205 - Soni R\7AUG2025\FlowControls\FactorialCalculation\obj\Release\FactorialCalculation.csproj.AssemblyReference.cache
+\\ABSPC030\Training-25\E0205 - Soni R\7AUG2025\FlowControls\FactorialCalculation\obj\Release\FactorialCalculation.csproj.CoreCompileInputs.cache
+\\ABSPC030\Training-25\E0205 - Soni R\7AUG2025\FlowControls\FactorialCalculation\obj\Release\FactorialCalculation.exe
+\\ABSPC030\Training-25\E0205 - Soni R\7AUG2025\FlowControls\FactorialCalculation\obj\Release\FactorialCalculation.pdb
